@@ -1,24 +1,19 @@
 # Richard Nordqvist
 
-> E-commerce strategist, consultant and owner-operator based in Oslo (Norway) and Gothenburg (Sweden). 15 years building and running online stores across Norway, Sweden and Estonia.
+> Takes ideas from concept to running business. Based in Oslo (Norway) and Gothenburg (Sweden).
 
-## About
-- Helps companies build and run online stores end to end: strategy and concept development, marketing and SEO, web and UX, warehouse and logistics, and AI automation for day-to-day operations.
-- Specialises in cross-border e-commerce between Norway and Sweden, and from Sweden to the rest of Europe: shipping, customs and VAT.
-- Platforms: Shopify, Magento, WooCommerce. Builds with AI tools such as Claude Code and Cursor.
-- Company: Scomber Ltd.
-- Education: BI Norwegian Business School (Siviløkonom, MSc).
-
-## Own projects
-- [Festkompaniet](https://festkompaniet.no): party supplies, Norway
-- [Ballonglevering](https://ballonglevering.no): balloon delivery, Norway
-- [Poppis](https://poppis.com): premium Scandinavian children's basics (co-founder)
-- [Decopop](https://decopop.com): coming soon
-- [PerfectHome](https://perfecthome.com): home and interior
+## What he works with
+- E-commerce, SEO and SEM
+- Strategy and concept development
+- AI and automation
+- Logistics, including cross-border trade between Norway and Sweden
+- Company: Scomber Ltd
 
 ## Profiles
 - [LinkedIn](https://www.linkedin.com/in/richardns/)
 - [GitHub](https://github.com/rnordqvist)
+- [Instagram](https://www.instagram.com/richard_nordqvist)
+- [Facebook](https://www.facebook.com/rns84/)
 
 ## Contact
 - richard@decopop.com
